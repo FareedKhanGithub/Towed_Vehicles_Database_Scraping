@@ -2,6 +2,7 @@ Used Python and SQLite queries to search thru the database to retrieve the numbe
 distinct car makes, dates with highest number of towed vehicles and more.
 
 #To Run
+
 --Need to install Sqlite
 
 --Need to have python installed as well
